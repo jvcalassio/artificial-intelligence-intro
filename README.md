@@ -39,5 +39,7 @@ The results are the accuracy, precision, recall and the confusion matrix of the 
 ## References
 
 [Towards Data Science - Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-visualization-and-prediction-model-in-python-241b954e1731)
+
 [Towards Data Science - Hyperparameter Tuning the Random Forest](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+
 [Towards Data Science - Building a Random Forest Classifier](https://towardsdatascience.com/building-a-random-forest-classifier-c73a4cae6781)
